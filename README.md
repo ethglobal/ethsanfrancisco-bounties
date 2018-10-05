@@ -12,7 +12,7 @@ Sponsor prizes are set up as Gitcoin bounties in [this very repo](https://github
 
 ### 1) Make sure you're eligible to participate!
 
-While participating at ETHGlobal events like ETH San Francisco is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on October 4th at 4:00pm in the [Palace of Fine Arts](https://www.google.ca/maps/place/3301+Lyon+St,+San+Francisco,+CA+94123,+USA/@37.8029577,-122.4513816,17z/data=!4m5!3m4!1s0x808586d567c38637:0x5477f0108e294db2!8m2!3d37.8019913!4d-122.4486565). If you have not received a message confirming that your application to ETH San Francisco was accepted please reach out to us at sponsor@ethglobal.co.
+While participating at ETHGlobal events like ETH San Francisco is essentially as easy as contributing to an open source project, you do have to be physically present. Registration will take place on October 5th at 4:00pm in the [Palace of Fine Arts](https://www.google.ca/maps/place/3301+Lyon+St,+San+Francisco,+CA+94123,+USA/@37.8029577,-122.4513816,17z/data=!4m5!3m4!1s0x808586d567c38637:0x5477f0108e294db2!8m2!3d37.8019913!4d-122.4486565). If you have not received a message confirming that your application to ETH San Francisco was accepted please reach out to us at sponsor@ethglobal.co.
 
 ### 2) Before the hackathon
 
@@ -36,7 +36,7 @@ Please note that **you can submit your work to multiple prizes**, they are not e
 
 #### 3.1) Register yourself
 
-ETHSanFrancisco starts on October 4th at 4:00pm in the [Palace of Fine Arts](https://www.google.ca/maps/place/3301+Lyon+St,+San+Francisco,+CA+94123,+USA/@37.8029577,-122.4513816,17z/data=!4m5!3m4!1s0x808586d567c38637:0x5477f0108e294db2!8m2!3d37.8019913!4d-122.4486565). Please try to arrive on time as participants that are too late may not be able to participate.
+ETHSanFrancisco starts on October 5th at 4:00pm in the [Palace of Fine Arts](https://www.google.ca/maps/place/3301+Lyon+St,+San+Francisco,+CA+94123,+USA/@37.8029577,-122.4513816,17z/data=!4m5!3m4!1s0x808586d567c38637:0x5477f0108e294db2!8m2!3d37.8019913!4d-122.4486565). Please try to arrive on time as participants that are too late may not be able to participate.
 
 #### 3.2) Start work on the associated [Gitcoin](https://gitcoin.co/explorer) bounty (check out the issues in this repository for some of the bounties available)
 
