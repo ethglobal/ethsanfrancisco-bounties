@@ -6,7 +6,7 @@ Sponsors, please double check the information below to make sure you're prepared
 
 ## Prize List
 
-Prizes are set up as Gitcoin bounties in [this very repo](https://github.com/ethglobal/ethsanfrancisco-bounties). Sponsors will be adding to these up until the hackathon begins so check back for new ones!
+Sponsor prizes are set up as Gitcoin bounties in [this very repo](https://github.com/ethglobal/ethsanfrancisco-bounties). Sponsors will be adding to these up until the hackathon begins so check back for new ones! The main prizes will be announced at the end of the hackathon as a surprise :)
 
 ## How to win prizes for dummies
 
@@ -18,9 +18,7 @@ While participating at ETHGlobal events like ETH San Francisco is essentially as
 
 #### 2.1) Form your team
 
-If you don't already have a team, you are welcome to create an issue in the [teambuilding repository](https://github.com/ethglobal/ethsanfrancisco-teambuilding).
-
-You can use this issue as a way to get other participants excited about your project or to brainstorm if you haven't yet defined an exact scope.
+Teambuilding will happen at ETH San Francisco. If you don't already have one you'll be able to find plenty of awesome developers, designers, and other talented folks to work with!
 
 #### 2.2) Keep calm, and don't start coding yet!
 
@@ -28,23 +26,9 @@ Hacking starts *at the hackathon*. Teams can form and ideas can evolve before th
 
 And please don't forget to sync your Ethereum nodes ahead of the event :)
 
-#### 2.3) Check out the prizes available
+#### 2.3) Check out the sponsor prizes available
 
-The following will provide you with a quick overview of the different prizes that you can win as a hacker at ETHSanFrancisco. There are four different tracks, each of which will be distributed via Gitcoin:
-
-**General Prizes
-**Open Track**
-This is the main prize of ETHSanFrancisco. There will be *X1* winners. The grand bounty is of approximately *X2* and it’s distributed equally. You can calculate it ;)
-
-**People’s Choice Awards**
-Previous Hackathons have showed that people’s favorite teams were not always among the actual winners. Like at ETHBerlin, at ETHSanFrancisco we would like to give those projects a chance by rewarding the people’s favorite team with a community prize of *X3*. The winner will be determined from the top 5 teams through an Augur prediction market tournament. More details to come soon!
-
-**Sponsor Prizes & Improvement Awards**
-**Sponsors’ Prizes**
 Some of ETHGlobal’s sponsors have their own prizes. Note that ETHSanFrancisco has no influence on either the challenge or the judging, this is entirely up to the sponsors. You can find all the prize awards, you guessed it, [here](https://github.com/ethglobal/ethsanfrancisco-bounties/issues).
-
-**Community Improvement Awards**
-These are small prizes of *X5* being offered by each ETHSanFrancisco participant. These prizes are marked with the 'community' tag.
 
 Please note that **you can submit your work to multiple prizes**, they are not exclusive! So for example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere you want to participate.
 
@@ -81,10 +65,7 @@ What your submission should have:
 
 #### 4.2) How to submit
 
-- **Open track bounties** You should create a pull request on the [Open Track Bounty](https://github.com/ethglobal/ethsanfrancisco-bounties/issues/) issue the Gitcoin bounty is associated. Submissions must be in before **Sunday at 12pm** to be eligible!
-- **Sponsored bounties** If you want your project considered for particular bounties, you can submit your project by creating a pull request on the issue the Gitcoin bounty is associated with and submitting work by clicking `submit work` on the associated Gitcoin page.
-- **Community Improvement Prizes** You know the drill, again just apply for the relevant bounty ;)
-- **People’s Choice Award** Nothing required, just buidl.
+If you want your project considered for particular bounties, you can submit your project by creating a pull request on the issue the Gitcoin bounty is associated with and submitting work by clicking `submit work` on the associated Gitcoin bounty page.
 
 You can apply to multiple prizes simultaneously, if you think your project conforms to each one's judging criteria.
 
