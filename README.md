@@ -18,7 +18,7 @@ While participating at ETHGlobal events like ETH San Francisco is essentially as
 
 #### 2.1) Form your team
 
-Teambuilding will happen at ETH San Francisco. If you don't already have one you'll be able to find plenty of awesome developers, designers, and other talented folks to work with!
+Teambuilding will happen at ETH San Francisco. If you don't already have one you'll be able to find plenty of awesome developers, designers, and other talented folks to work with! **To make prize distribution easier, please try to create a Github organization for your team.**
 
 #### 2.2) Keep calm, and don't start coding yet!
 
@@ -80,7 +80,3 @@ Whether or not you get a prize, you deserve to be proud of your work. Thanks for
 #### 5.2) Enjoy the rest of blockchain week!
 
 ETH San Francisco is just one part of a week long celebration of blockchain. Stick around and check out some of the other great events and parties.
-
-## Judges and Scoring
-
-Judging and scoring criteria will be coming shortly!
